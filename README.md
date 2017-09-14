@@ -18,7 +18,7 @@
 [掘金](https://juejin.im/)
 [简书](http://www.jianshu.com/)
 [bootstrap 相关](http://www.bootcss.com/)
-[node 新手入门](ttps://cnodejs.org/getstart)
+[node 新手入门](https://cnodejs.org/getstart)
 [萧大直播间](https://space.bilibili.com/39066904?from=search&seid=8685260047812370414#!/)
 [阮一峰博客](http://www.ruanyifeng.com/home.html)
 [前端学习视频](https://ke.qq.com/huodong/Webfront/index.html)
