@@ -40,6 +40,10 @@
 [书籍](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md)
 [小清新技术](http://qqfe.org/)
 [Node.js中文论坛](https://cnodejs.org/)
+[GitHub最全前端资源汇总](https://helloqingfeng.github.io/front-end-index/index.html)
+[前端学习路径](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/26-front-end-learning-path)
+[前端技能汇总](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/05-fks-master)
+[100+ 超全的web开发工具和资源](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/24-100+Web-Development-Tools-and-Resources)
 ---
 [算法导论](http://open.163.com/special/opencourse/algorithms.html)
 [编程方法学](http://open.163.com/special/sp/programming.html)
