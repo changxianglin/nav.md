@@ -26,6 +26,7 @@
 * [精选视频](https://ke.qq.com/index.html)
 * [布尔教育视频](http://www.itbool.com/php-video.html)
 * [张鑫旭博客](http://www.zhangxinxu.com)
+* [小胡子哥](http://www.barretlee.com/)
 * [廖雪峰博客](https://www.liaoxuefeng.com)
 * [囧克斯博客](http://jiongks.name)
 * [聂微东博客](http://www.cnblogs.com/Darren_code/)
