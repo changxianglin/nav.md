@@ -4,6 +4,11 @@
 
 ---
 * [奇舞团](https://75team.com/)
+* [百度 efe](http://efe.baidu.com/)
+* [imweb](http://www.imweb.io/)
+* [腾讯前端研发](http://qqfe.org/)
+* [凹凸实验室](https://aotu.io/)
+* [百度 fex](http://fex.baidu.com/)
 * [前端导航](http://www.alloyteam.com/nav/)
 * [腾讯前端](http://www.alloyteam.com/)
 * [慕课网](http://www.imooc.com/)
