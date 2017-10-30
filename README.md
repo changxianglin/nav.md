@@ -62,3 +62,4 @@
 * [多核编程](http://open.163.com/special/opencourse/bianchengmit.html)
 * [国际计算机课程集合](https://open.163.com/ocw/#computer)
 * [中国大学计算机Mooc](http://www.icourse163.org/category/computer)
+* [SICP](https://www.bilibili.com/video/av8515129/)
