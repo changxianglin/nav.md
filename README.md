@@ -1,6 +1,6 @@
 # nav.md
 关于技术导航收集在此
-* [web 最后学习资料](https://developer.mozilla.org/zh-CN/)
+* [web 最好学习资料](https://developer.mozilla.org/zh-CN/)
 * [代码进阶](https://space.bilibili.com/39066904/#!/)
 
 ---
