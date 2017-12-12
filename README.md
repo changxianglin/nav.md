@@ -1,6 +1,7 @@
 # nav.md
 关于技术导航收集在此
 * [web 最好学习资料](https://developer.mozilla.org/zh-CN/)
+* [重新介绍 javascript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [代码进阶](https://space.bilibili.com/39066904/#!/)
 
 ---
