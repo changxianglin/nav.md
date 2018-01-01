@@ -6,6 +6,7 @@
 * [coursera](https://www.coursera.org/)
 ---
 * [奇舞团](https://75team.com/)
+* [奇舞团回放视频](http://cloud.live.360vcloud.net/theater/vod)
 * [百度 efe](http://efe.baidu.com/)
 * [imweb](http://www.imweb.io/)
 * [腾讯前端研发](http://qqfe.org/)
