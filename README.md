@@ -1,6 +1,8 @@
 # nav.md
 关于技术导航收集在此
 * [web 最好学习资料](https://developer.mozilla.org/zh-CN/)
+* [简易版 JS 参考手册](http://javascript.ruanyifeng.com/)
+* [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 * [重新介绍 javascript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [代码进阶](https://space.bilibili.com/39066904/#!/)
 * [coursera](https://www.coursera.org/)
