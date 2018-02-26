@@ -4,6 +4,7 @@
 * [简易版 JS 参考手册](http://javascript.ruanyifeng.com/)
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 * [重新介绍 javascript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+* [gitbook](https://www.gitbook.com/explore?lang=zh)
 * [代码进阶](https://space.bilibili.com/39066904/#!/)
 * [coursera](https://www.coursera.org/)
 ---
