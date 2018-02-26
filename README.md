@@ -61,6 +61,7 @@
 * [前端技能汇总](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/05-fks-master)
 * [100+ 超全的web开发工具和资源](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/24-100+Web-Development-Tools-and-Resources)
 * [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
+* [程序员必读书单](http://lucida.me/blog/developer-reading-list/)
 ---
 * [算法导论](http://open.163.com/special/opencourse/algorithms.html)
 * [编程方法学](http://open.163.com/special/sp/programming.html)
