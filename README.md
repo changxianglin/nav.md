@@ -5,6 +5,7 @@
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 * [重新介绍 javascript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [gitbook 中文书籍](https://www.gitbook.com/explore?lang=zh)
+* [程序员的自我修养](https://leohxj.gitbooks.io/a-programmer-prepares/content/)
 * [代码进阶](https://space.bilibili.com/39066904/#!/)
 * [coursera](https://www.coursera.org/)
 ---
