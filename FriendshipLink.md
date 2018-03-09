@@ -5,4 +5,4 @@
 * [大香蕉博客](http://bananass.cc/)
 * [小海博客](http://xiaohaiping.cc/)
 * [Andrew博客](http://blog.istorm.cc/)
-* [bobo](http://hebaoying.com/female-coder/)
+* [bobo 博客](http://hebaoying.com/female-coder/)
