@@ -22,6 +22,7 @@
 * [腾讯前端学院](https://ke.qq.com/cates/frontCategory/index.html)
 * [网易云课堂](http://study.163.com/)
 * [奇舞学院](https://t.75team.com/)
+* [奇舞学院课程](http://study.qiyun.360.cn/)
 * [前端开发博客](http://caibaojian.com/)
 * [菜鸟教程](http://www.runoob.com/)
 * [W3TECh](https://www.w3ctech.com/)
