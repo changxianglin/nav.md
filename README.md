@@ -24,6 +24,7 @@
 * [奇舞学院](https://t.75team.com/)
 * [奇舞学院课程](http://study.qiyun.360.cn/)
 * [微信&node](https://www.ikcamp.com/)
+* [微信&node](https://www.cctalk.com/m/u/31924478/programs)
 * [前端开发博客](http://caibaojian.com/)
 * [菜鸟教程](http://www.runoob.com/)
 * [W3TECh](https://www.w3ctech.com/)
