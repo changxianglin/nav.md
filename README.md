@@ -59,6 +59,7 @@
 * [迷度博客](http://www.barretlee.com/entry/)
 * [汤姆大叔博客](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 * [孟岩博客](http://blog.csdn.net/myan/)
+* [前端开发俱乐部](https://www.html-js.cn/)
 * [书籍](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md)
 * [小清新技术](http://qqfe.org/)
 * [Node.js中文论坛](https://cnodejs.org/)
