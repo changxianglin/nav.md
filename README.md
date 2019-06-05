@@ -8,6 +8,7 @@
 * [程序员的自我修养](https://leohxj.gitbooks.io/a-programmer-prepares/content/)
 * [代码进阶](https://space.bilibili.com/39066904/#!/)
 * [coursera](https://www.coursera.org/)
+* [计算机专业课程汇总](https://study.163.com/curricula/cs.htm)
 ---
 * [门](https://www.kuaibiancheng.com/)
 * [提问](https://www.kuaibiancheng.com/questions)
